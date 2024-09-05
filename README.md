@@ -47,4 +47,5 @@ Figma: [https://www.figma.com/design/46E5rrpXrG8hTlgxpZZ7Kw/DevBills?node-id=12-
 - data
 - tipo
 
-##
+ROUTE -> CONTROLLER -> SERVICE -> ENTITY  
+ENTITY -> SERVICE -> CONTROLLER -> ROUTE
